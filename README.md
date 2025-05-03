@@ -27,7 +27,7 @@ blablabla
 
 ## Автор
 
-- [@ilgiz25]()
+- [@ilgiz25](https://github.com/Ilgiz25)
 
 
 
