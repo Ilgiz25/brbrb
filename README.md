@@ -25,9 +25,9 @@ blablabla
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-## я
+## Автор
 
-- [@wwputin](https://avatars.mds.yandex.net/get-entity_search/2077223/1130050979/S600xU_2x)
+- [@ilgiz25]()
 
 
 
