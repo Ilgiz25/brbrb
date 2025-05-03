@@ -4,7 +4,7 @@
 
 
 
-## блэблэблэ
+## 3 ОСНОВНЫХ ПЕРСОНАЖА
 
  - [Бомбордило крокодило](https://avatars.mds.yandex.net/i?id=2a0000019681fbf0ee40f3296017b4821ade-989033-fast-images&n=13)
  - [Бобрито Бандито](https://pic.rutubelist.ru/video/2025-04-11/9f/60/9f607c9ea425aa5ddeae958e5d9df58d.jpg)
